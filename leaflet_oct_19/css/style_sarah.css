@@ -1,0 +1,13 @@
+BODY 
+	{
+	font-family:sans-serif;
+	}
+	#wrapper {
+		width: 906px;
+		margin: 15px;
+			}
+	#map{
+		width: 1000px;
+		height: 450px;
+		margin: 15px;
+	}
